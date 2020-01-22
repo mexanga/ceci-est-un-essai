@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{R713:function(n,e,o){"use strict";o.r(e),o.d(e,"getZIndexOfSectionFromIndex",function(){return r});var t=100;function r(n,e){return t*e-t*n}}}]);
